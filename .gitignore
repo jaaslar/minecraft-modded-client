@@ -1,0 +1,11 @@
+# Ignore everything :
+*
+
+# Except for the mods directories :
+!.gitignore
+!config/
+!config/*
+!config/**
+!mods/
+!mods/*
+!mods/**
