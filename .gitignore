@@ -10,6 +10,12 @@
 !mods/*
 !mods/**
 !README.md
+
 !options.txt
 !optionsof.txt
 !optionsshaders.txt
+
+!shaderpacks/*
+!shaderpacks/**
+!resourcepacks/*
+!resourcepacks/**
