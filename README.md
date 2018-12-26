@@ -10,6 +10,11 @@ git remote add origin https://github.com/jaaslar/minecraft-modded-client.git
 git pull origin master
 ```
 
+### Options du launcher
+```
+-Xmn4G -Xmx8G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy
+```
+
 ## Mettre à jour les mods
 ```bash
 cd ~/.minecraft/profile/forge-1.12.2
