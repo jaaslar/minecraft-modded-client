@@ -15,7 +15,9 @@
 !optionsof.txt
 !optionsshaders.txt
 
+!shaderpacks
 !shaderpacks/*
 !shaderpacks/**
+!resourcepacks
 !resourcepacks/*
 !resourcepacks/**
