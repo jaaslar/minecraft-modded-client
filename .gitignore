@@ -21,3 +21,5 @@
 !resourcepacks
 !resourcepacks/*
 !resourcepacks/**
+
+!journeymap/config/**
